@@ -39,3 +39,6 @@
    <img src="proteus.PNG" alt="diagrama" width="50%" height="20%"/></center>
 </div>
 
+<div align="center">
+   <img src="protoboard.jpeg" alt="diagrama" width="50%" height="20%"/></center>
+</div>

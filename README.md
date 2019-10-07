@@ -3,12 +3,12 @@
 * **Descrição geral do Sistema:**
 
    O controlador proporcional possui uma interface composta por display 16x2 e 4 botões (P | UP | DOWN | S). O controle é feito proporcionalmente e a configuração de alguns parâmetros do sistema é feita através da interface de usuário. Sâo elas:
-      * Novo set-point.
-      * Valor do ganho do Heat.
-      * Valor do ganho do Fan.
-      * Ganho manual do Heat.
-      * Ganho manual do Fan.
-      * Desabilitar o controlador independentemente da temperatura.
+      ** Novo set-point.
+      ** Valor do ganho do Heat.
+      ** Valor do ganho do Fan.
+      ** Ganho manual do Heat.
+      ** Ganho manual do Fan.
+      ** Desabilitar o controlador independentemente da temperatura.
 
 <div align="center">
    <img src="diagrama_de_blocos.PNG" alt="diagrama" width="50%" height="20%"/></center>

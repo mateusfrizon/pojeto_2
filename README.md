@@ -6,7 +6,6 @@
       * Novo set-point.
       * Valor do ganho do Heat.
       * Valor do ganho do Fan.
-      * Se o modo vai ser manual.
       * Ganho manual do Heat.
       * Ganho manual do Fan.
       * Desabilitar o controlador independentemente da temperatura.
@@ -17,7 +16,7 @@
 
 * **Funcionamento:**
 
-   O sistema se inicializa na tela de supervisão, com o ganho de valor 15.0 que melhor se ajustou tanto para o FAN quanto para o HEAT. Nela é possível observar o estado atual do controlador, os valores de set-point e o valor da temperatura atual. Ao clicar no botão P, o sistema altera a tela, sendo que existem 6 telas se o modo manual estiver desativado, e 8 telas se estiver ativado. Estando na tela desejada, ao clicar no botão S aparecerá a opção de editar os valores, independente da tela. Para editar alguma configuração de alguma tela, dar um clique simples no botão P (se for editar ON/OFF) ou clicar nos botões UP e DOWN para alterar valores. Para salvar a configuração, clicar no botão S novamente.
+   O sistema se inicializa na tela de estado do drive. Ao clicar no botão P é possível observar o estado atual do controlador, os valores de set-point e o valor da temperatura atual. Existem 6 telas, se o modo manual. Estando na tela desejada, estando na telas de ajuste de parametros é só clicar nos botões UP e DOWN para alterar valores. Para passar as telas é só dar um clique no botão P. Clicar no botão S nos modos manuais para ajustar os valores dos ganhos.
 
 * **Periféricos:**
    * **Sensor:** O Sensor de temperatura utilizado é o sensor analógico LM35.
